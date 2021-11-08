@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeanyB4
-- 👀 I’m interested in becomming a full time programmer within the next two years.
-- 🌱 I’m currently learning Java and Algorithms and Data Structures.
-- 💞️ I’m looking to collaborate on simple projects for the purpose of learning.
+- 👀 I’m interested in iOS development, web development and Java programming.
+- 🌱 I’m currently learning iOS app development.
+- 💞️ I’m looking to collaborate on any projects that provide meaningful challenge.
 - 📫 How to reach me: bainsean@outlook.com
 
 <!---
