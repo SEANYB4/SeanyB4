@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeanyB4
-- 👀 I’m interested in iOS development, web development and Java programming.
-- 🌱 I’m currently learning iOS app development.
+- 👀 I’m in full stack web development, game development and audio programming.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on any projects that provide meaningful challenge.
 - 📫 How to reach me: bainsean@outlook.com
 
