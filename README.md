@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeanyB4
-- 👀 I’m in full stack web development, game development and audio programming.
+- 👀 I’m interested in full stack web development, game development and audio programming.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on any projects that provide meaningful challenge.
 - 📫 How to reach me: bainsean@outlook.com
